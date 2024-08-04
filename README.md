@@ -1,6 +1,5 @@
-# FactIT: Empowering Tech Users with Reliable Information
+# Welcome to CropLossAnalyzer, a cutting-edge platform revolutionizing crop damage estimation through the power of Deep Learning Transformers.
 
-Welcome to CropLossAnalyzer, a cutting-edge platform revolutionizing crop damage estimation through the power of Deep Learning Transformers.
 Our platform utilizes state-of-the-art technology and pre-trained models to predict change maps by analyzing two input images—providing accurate insights into crop damage assessment.
 
 At CropLossAnalyzer, we harness the capabilities of Deep Learning Transformers, leveraging their advanced algorithms and neural networks to process imagery data. By inputting before-and-after images, our platform generates precise change maps, highlighting areas of crop damage, disease, or changes in vegetation cover.
