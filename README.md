@@ -68,7 +68,12 @@ The bi-temporal images in CLCD were collected by Gaofen-2 in Guangdong Province,
   
 ## Models Used
 
+An MSCANet with CNN-transformer hybrid architecture
+is proposed for cropland CD, in which aMSCA is designed
+to encode multiscale context information, and an MBPH
+is utilized to improve deep feature learning.
 
+![Entering News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20014454.png)
 
 ---
 ## How the Project Works
@@ -77,57 +82,30 @@ The bi-temporal images in CLCD were collected by Gaofen-2 in Guangdong Province,
 
 ![Entering News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20012953.png)
 
-Users can enter the news they want to verify. FactIT processes the entered news and provides an assessment of its authenticity, enriching the quality of the dataset.
+Users can find the landing page built using React, it can be used with ease.
 
-### 2. Entry Point
+### 2. Uploading Before the change and After the change images for detection of damage
 
-![Entry Point](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_2.png?raw=true)
+![Entry Point](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20013011.png)
 
-The entry point allows users to input news articles into the system.
+The users neeed to provide with the temporal images of the site where damage need to be predicted.
 
-### 3. Verifying News Authenticity
+### 3. Sample Images 
 
-![Verifying News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_3.png?raw=true)
+#### Before Image
+![Verifying News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/repeatfolder/time1/image1.png)
 
-FactIT evaluates the entered news, indicating whether it is true or false. It also provides information and credibility details, enhancing user trust in the information.
+#### After Image
+![Verifying News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/repeatfolder/time2/image1.png)
 
-### 4. News Feed
+### 4. Output image predicted by the MSCANet model
 
-![News Feed](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_4.png?raw=true)
+![News Feed](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/Output_images1/result1.png)
 
-Users can access a curated news feed enriched with verified information for their study purposes.
+### 5. User must be Registered in the website and have an account to avail all services of CropAnalyzer
 
-### 5. Date and Region Filtering
+![Filtering Options](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20013116.png)
 
-![Filtering Options](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_5.png?raw=true)
-
-FactIT provides options to filter the news feed based on date and region, tailoring the information to specific user requirements.
-
-## What Makes This Project Special
-
-### Interactive Interface
-
-![Interactive Features](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss7.jpg?raw=true)
-
-FactIT comes with several distinctive features that set it apart from other education hubs and resources.
-
-### Chat Bot Assistance
-
-![Chat Bot](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss8.jpg?raw=true)
-
-The project includes an interactive chatbot designed to assist users in understanding the application. If a user is confused, the chatbot provides guidance, enhancing the overall user experience.
-
-### Auto-Populating Feature
-
-![Auto-Populating Feature](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss9.jpg?raw=true)
-
-FactIT introduces an auto-populating feature using Selenium. It alerts students if they are reading misleading or incorrect news, fostering a more informed educational experience.
-
-### Focus on Natural Language Processing (NLP)
-
-![NLP](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/ss10.jpg?raw=true)
-
-The entire project is centered around Natural Language Processing (NLP), leveraging cutting-edge technologies to enhance the quality of news verification. The images below illustrate the NLP process.
 
 ## Installation
 
@@ -151,6 +129,10 @@ The entire project is centered around Natural Language Processing (NLP), leverag
 
    ```bash
     npm start
+   ```
+
+   ```bash
+    run the flash app for backend
    ```
 
 2. Open your web browser and navigate to the provided local URL.
