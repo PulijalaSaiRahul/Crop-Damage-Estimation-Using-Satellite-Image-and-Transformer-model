@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+## Landing Page of website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Entering News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20012953.png)
 
 ## Available Scripts
 
