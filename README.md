@@ -73,9 +73,9 @@ The bi-temporal images in CLCD were collected by Gaofen-2 in Guangdong Province,
 ---
 ## How the Project Works
 
-### 1. Entering News
+### 1. Landing Page of website
 
-![Entering News](https://github.com/vempatisaivishal/GlobalTruthHub/blob/main/images/image_1.png?raw=true)
+![Entering News](https://github.com/PulijalaSaiRahul/Crop-Damage-Estimation-Using-Satellite-Image-and-Transformer-model/blob/main/images/Screenshot%202024-08-05%20012953.png)
 
 Users can enter the news they want to verify. FactIT processes the entered news and provides an assessment of its authenticity, enriching the quality of the dataset.
 
