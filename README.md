@@ -158,11 +158,12 @@ Users can customize the project by modifying the Bard / Open API key. In case us
 - Generative AI
 - Google Bard
 
-Pulijala Sai Rahul
-Vempati Sai Vishal
-Mamilla Thanish kumar
-Gorenkala Praneeth Sai
-Gangadari Mouneesh
+## Contributions
+- Pulijala Sai Rahul
+- Vempati Sai Vishal
+- Mamilla Thanish kumar
+- Gorenkala Praneeth Sai
+- Gangadhari Mouneesh
 
 ---
 
