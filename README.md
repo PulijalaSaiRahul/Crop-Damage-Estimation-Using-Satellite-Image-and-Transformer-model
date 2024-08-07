@@ -11,6 +11,9 @@ Join us in revolutionizing the agricultural landscape with innovative Deep Learn
 
 Empower your agricultural decisions with accurate crop damage estimation. Explore CropLossAnalyzer and experience the transformative potential of Deep Learning-based change map predictions today!
 
+## Live Demo of Application
+![demo](https://cute-gingersnap-6b7322.netlify.app/)
+
 ## Problem Statement
 
 Many farmers are availing the crop insurance and benifited in case of 
