@@ -161,6 +161,7 @@ Users can customize the project by modifying the Bard / Open API key. In case us
 ## Contributions
 - Pulijala Sai Rahul
 - Vempati Sai Vishal
+- Adoni Venkata Giri Vardhan
 - Mamilla Thanish kumar
 - Gorenkala Praneeth Sai
 - Gangadhari Mouneesh
